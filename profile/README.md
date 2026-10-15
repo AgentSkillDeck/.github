@@ -32,6 +32,12 @@ In Claude Code:
 | **ui** | `deck-design` · `deck-review` · `deck-radar` · `deck-match` | Build, review and refine web, iOS and Android interfaces that fit the product, with design-system references and 1:1 image matching. |
 | **audio** | `deck-script` · `deck-voice` · `deck-mix` | Finished multi-voice audio on your machine: narration, podcasts, audiobooks, lessons and drama, with licensed sound, QA and mastering. |
 
+## Apps
+
+| App | What it does |
+|---|---|
+| **[Keepwatch](https://github.com/AgentSkillDeck/keepwatch)** | A free Mac menu-bar app and CLI: keeps your Mac awake while Claude Code, Codex and other agents run, even with the lid closed; lists and stops agent sessions; mic and camera switches and alerts; security checks; apps by memory. Signed and notarized. [Website](https://agentskilldeck.github.io/keepwatch/) |
+
 More plugins are on the way.
 
 ## Contributing
