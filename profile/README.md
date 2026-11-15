@@ -43,3 +43,5 @@ More plugins are on the way.
 ## Contributing
 
 Issues and pull requests are welcome in [AgentSkillDeck/skills](https://github.com/AgentSkillDeck/skills). Pull requests need a maintainer review before merging.
+
+Part of [Lax Society](https://laxsociety.github.io): open-source apps, built in public.
